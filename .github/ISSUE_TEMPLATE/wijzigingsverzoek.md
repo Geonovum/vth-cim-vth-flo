@@ -8,11 +8,11 @@ assignees: ''
 ---
 
 Issue: Wijzigingsverzoek 
-Template voor wijzigingsverzoek (meld eerst via VTH@geonovum.nl)
+Template voor wijzigingsverzoek (meld eerst via vth@geonovum.nl)
 
 Aanleiding wijziging
 Beschrijf hier waarom de standaard moet worden aangepast en waar de vraag.
-vandaan komt met evt verwijzing naar helpdesk-nummer.
+vandaan komt met evt verwijzing naar SDVTH-nummer.
 
 Voorgestelde wijziging
 Beschrijf hier wat er gewijzigd moet worden aan de standaard.

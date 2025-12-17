@@ -1,6 +1,6 @@
 ---
 name: Foutmelding
-about: Meld eerst via VTH@geonovum.nl, dan maakt Geonovum een issue aan.
+about: Meld eerst via vth@geonovum.nl, dan maakt Geonovum een issue aan.
 title: ''
 labels: bug
 assignees: ''
