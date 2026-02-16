@@ -24,7 +24,35 @@
   <script src="https://gitdocumentatie.logius.nl/publicatie/respec/builds/respec-nlgov.js" class="remove" async></script>
   <!-- De volgende regel zorgt ervoor dat plaatjes uit Imvertor niet geschaald
        worden, zodat de imagemap die op deze plaatjes zit werkt. -->
-  <style>div.imageinfo img {max-width: none;}</style>
+  <style>
+div.imageinfo img {max-width: none;}
+
+/* Styling voor noot en noottekst elementen */
+span.noot {
+  position: relative;
+  cursor: help;
+}
+
+span.noottekst {
+  display: none;
+  position: absolute;
+  bottom: 1.2em;
+  left: 0;
+  background-color: #ffffcc;
+  border: 1px solid #999;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 0.85em;
+  white-space: normal;
+  width: 200px;
+  z-index: 1000;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+span.noot:hover span.noottekst {
+  display: block;
+}
+  </style>
 </head>
 
 <body>
